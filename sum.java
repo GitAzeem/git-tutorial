@@ -3,6 +3,8 @@ public class sum {public static void main(String[] args) {
     int b=23;
     int sum=a+b;
     System.out.println(sum);
+    String name="Azeem";
+    System.out.println(name);
 }
     
 }
