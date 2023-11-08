@@ -7,6 +7,7 @@ public class greet {
       String n=in.next();
      
       System.out.println( intro(n));
+      System.out.println("version 13 ,downloaded from github");
     }
 
     static String intro(String name){
